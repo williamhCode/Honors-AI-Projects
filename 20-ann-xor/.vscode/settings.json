@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "neuroph-light-2.9/neuroph-adapters-2.9.jar",
+        "neuroph-light-2.9/neuroph-core-2.9.jar",
+        "neuroph-light-2.9/slf4j-api-1.7.5.jar",
+        "neuroph-light-2.9/slf4j-nop-1.7.6.jar"
+    ]
+}
