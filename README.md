@@ -12,7 +12,7 @@ https://github.com/williamhCode/Honors-AI-Projects/assets/83525937/f72bb5c0-c9f2
 ### Lunar Lander Genetic Algorithm
 Manual mode:
 
-https://github.com/williamhCode/Honors-AI-Projects/assets/83525937/fd339d8d-38c7-44f8-96a8-7e7140c90119
+https://github.com/williamhCode/Honors-AI-Projects/assets/83525937/551b25ba-1344-4e0e-9adf-0adae22d7e48
 
 Auto mode:  
 
